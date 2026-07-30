@@ -1,0 +1,11 @@
+Order_ID,Date,Month,Category,Product,Region,Sales,Profit
+1001,2026-01-10,Jan,Electronics,Laptop,North,65000,12000
+1002,2026-02-11,Feb,Furniture,Chair,South,8000,1500
+1003,2026-03-12,Mar,Clothing,T-Shirt,East,1200,300
+1004,2026-04-13,Apr,Electronics,Mobile,West,30000,6000
+1005,2026-05-14,May,Sports,Cricket Bat,North,5000,1000
+1006,2026-06-15,Jun,Beauty,Face Wash,South,900,250
+1007,2026-07-16,Jul,Electronics,Headphones,East,4500,900
+1008,2026-08-17,Aug,Furniture,Table,West,15000,3200
+1009,2026-09-18,Sep,Clothing,Jeans,North,2500,600
+1010,2026-10-19,Oct,Sports,Football,South,1800,450
